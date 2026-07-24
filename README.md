@@ -78,10 +78,6 @@ A full-stack lab management platform with an AI assistant that requires human ap
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nermine-ouada&show_icons=true&theme=radical&hide_border=true&border_radius=12"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nermine-ouada&layout=compact&theme=radical&hide_border=true&border_radius=12"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nermine-ouada&theme=radical&hide_border=true&border_radius=12"/>
