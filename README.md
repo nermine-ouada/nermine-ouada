@@ -15,14 +15,7 @@
 
 ### 🌟 About Me
 
-```yaml
-name: Nermine Ouada
-role: Computer Science Engineering Student
-location: La Marsa, Tunis 🇹🇳
-current_focus: AI integration & full-stack development
-currently_interning: 🍊 Orange Summer Challenge @ Orange Tunisia
-fun_fact: 🏆 1st Place @ Code It Up 6.0 hackathon
-```
+
 
 - 🎓 First-year CS Engineering student at **ENICarthage**
 - 🍊 Currently interning at **Orange Tunisia**, Orange Summer Challenge
