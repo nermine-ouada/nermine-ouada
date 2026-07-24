@@ -2,9 +2,13 @@
 <h3 align="center">💻 Computer Science Engineering Student @ ENICarthage | 🚀 Full-Stack & Mobile Dev | 🤖 AI Enthusiast</h3>
 
 <p align="center">
-  <a href="https://nermine-ouada.vercel.app"><img src="https://img.shields.io/badge/Portfolio-nermine--ouada.vercel.app-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nermine-ouada"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:nermine.ouada@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://nermine-ouada.vercel.app"><img src="https://img.shields.io/badge/Portfolio-nermine--ouada.vercel.app-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
+  <a href="https://www.linkedin.com/in/nermine-ouada"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
+  <a href="mailto:nermine.ouada@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=550&lines=Building+full-stack+%26+mobile+apps+%F0%9F%9A%80;Exploring+AI+agents+%F0%9F%A4%96;Intern+%40+Orange+Tunisia+%F0%9F%8D%8A"/>
 </p>
 
 ---
@@ -21,80 +25,42 @@ fun_fact: 🏆 1st Place @ Code It Up 6.0 hackathon
 ```
 
 - 🎓 First-year CS Engineering student at **ENICarthage**
-- 🍊 Currently interning at **Orange Tunisia** — Orange Summer Challenge
+- 🍊 Currently interning at **Orange Tunisia**, Orange Summer Challenge
 - 🌐 Experience across **full-stack**, **backend**, and **mobile** development
 - 🤖 Diving into **AI agent integration** as a beginner enthusiast
-- 🏆 1st Place — *Code It Up 6.0* hackathon (Sydney's Lab — Multi-Agent AI Assistant Platform)
+- 🏆 1st Place at *Code It Up 6.0* hackathon (Sydney's Lab, Multi-Agent AI Assistant Platform)
 - 📫 Reach me at **nermine.ouada@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,dart,postgres&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,flutter&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nestjs,mongodb,docker,git,azure&theme=dark" />
 </p>
 
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-</p>
-
-**Mobile**
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-</p>
-
-**Backend**
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square"/>
-  <img src="https://img.shields.io/badge/WebSockets-black?style=flat-square&logo=websocket&logoColor=white"/>
-</p>
-
-**Databases**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
-
-**AI & Agents**
-<p>
-  <img src="https://img.shields.io/badge/OpenRouter-8A2BE2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DeepAgents-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Tavily-00A67E?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LLM_Integration-FF6F61?style=flat-square"/>
-</p>
-
-**DevOps & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenRouter-8A2BE2?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/DeepAgents-FF9F1C?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/Tavily-00A67E?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/LLM_Integration-06D6A0?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
 </p>
 
 ---
 
 ### 🚀 Featured Project
 
-#### 🧪 Sydney's Lab — Multi-Agent AI Assistant Platform
+#### 🧪 Sydney's Lab · Multi-Agent AI Assistant Platform
 🏆 **1st Place, Code It Up 6.0 (Apr 2026)**
 
 A full-stack lab management platform with an AI assistant that requires human approval for sensitive actions.
 
 - ⚙️ Built with **FastAPI**, **PostgreSQL**, and LLM integrations via **OpenRouter**
-- 🧠 Multi-agent orchestration using **DeepAgents** (planner + specialist agents: coordinator, research, database, inventory)
+- 🧠 Multi-agent orchestration using **DeepAgents** (planner plus specialist agents: coordinator, research, database, inventory)
 - ✅ Human-in-the-loop approval flows with audit logging for write operations
-- 💬 React chat interface + oversight screen for agent actions
+- 💬 React chat interface and oversight screen for agent actions
 - 🐳 Dockerized services
 
 ---
@@ -103,7 +69,7 @@ A full-stack lab management platform with an AI assistant that requires human ap
 
 | Company | Role | Period |
 |---|---|---|
-| Orange Tunisia | Intern — Orange Summer Challenge | 2026 – Present |
+| Orange Tunisia | Intern, Orange Summer Challenge | 2026 – Present |
 | Orange Digital Center | Full Stack Developer Intern | Feb 2025 – May 2025 |
 | ELYADATA | Backend Developer Intern | Jan 2024 – Feb 2024 |
 | ELYADATA | Frontend Developer Intern | Jan 2023 – Feb 2023 |
@@ -113,16 +79,16 @@ A full-stack lab management platform with an AI assistant that requires human ap
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nermine-ouada&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nermine-ouada&layout=compact&theme=radical&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nermine-ouada&show_icons=true&theme=radical&hide_border=true&border_radius=12"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nermine-ouada&layout=compact&theme=radical&hide_border=true&border_radius=12"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nermine-ouada&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nermine-ouada&theme=radical&hide_border=true&border_radius=12"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>✨ Currently interning at Orange Tunisia (Orange Summer Challenge) & exploring AI agents — let's connect! ✨</i>
+  <i>✨ Currently interning at Orange Tunisia (Orange Summer Challenge) and exploring AI agents. Let's connect! ✨</i>
 </p>
